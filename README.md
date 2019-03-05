@@ -5,4 +5,4 @@
 *自定义filter解决中文乱码问题</br>
 *自定义servlet模仿restful风格对请求进行处理</br>
 ##效果如下
-![图片](/path/to/img.jpg)
+![图片](https://github.com/GX321/student-jdbc/blob/master/src/main/webapp/WEB-INF/img/show.PNG)
