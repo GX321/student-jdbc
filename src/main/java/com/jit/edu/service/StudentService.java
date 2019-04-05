@@ -38,6 +38,7 @@ public class StudentService implements StudentDao {
         MyConfiguration configuration = new MyConfiguration();
         conn = configuration.getConnection("datasource.xml");
         sql = configuration.getSql("sql.xml");
+
     }
 
 

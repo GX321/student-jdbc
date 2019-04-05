@@ -18,7 +18,7 @@ import java.util.List;
  */
 public class MyServlet extends HttpServlet {
     private static final Logger logger = Logger.getLogger(StudentService.class);
-    private StudentService service;
+    private StudentService service ;
 
     /**
      * 初始化获取数据库连接，sql语句
@@ -27,7 +27,7 @@ public class MyServlet extends HttpServlet {
      */
     @Override
     public void init() throws ServletException {
-        service = new StudentService();
+        service =new StudentService();
     }
 
 
