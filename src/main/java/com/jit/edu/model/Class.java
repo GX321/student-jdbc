@@ -5,5 +5,5 @@ package com.jit.edu.model;
  * @version:2019/4/5
  */
 public class Class {
-    private String name;
+    private String id;
 }
